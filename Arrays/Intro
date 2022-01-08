@@ -1,5 +1,6 @@
 strings = ['a', 'b', 'c', 'd']
 
 strings.pop()
-string.pop()
+strings.pop()
 
+print(strings)
