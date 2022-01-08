@@ -3,4 +3,7 @@ strings = ['a', 'b', 'c', 'd']
 strings.pop()
 strings.pop()
 
+strings.append(0, 'a')
+
 print(strings)
+
